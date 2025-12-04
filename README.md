@@ -1,9 +1,8 @@
-```md
 # Hey there, I'm **Emad Mahmoud** 👋  
-**Data Science Student · AI & ML Enthusiast · Problem Solver**  
+**Data Science Student · AI & ML Enthusiast · Problem Solver**
 
 💼 **Current:** Trainee in **AI & Data Science Track** at DEPI  
-📚 **CS Student** at MTI University — *Grade: Excellent*  
+📚 **CS Student** at MTI University — *Grade: Excellent*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mamdt362&style=for-the-badge" alt="Profile Views"/>
@@ -11,19 +10,15 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200"/>
-
-I'm a Data Science enthusiast with strong skills in Python, SQL, data analysis, and machine learning.  
+I’m a Data Science enthusiast with strong skills in Python, SQL, data analysis, and machine learning.  
 I enjoy working with datasets, cleaning and transforming data, building ML models, and visualizing insights.  
-I'm continuously learning and improving my skills to grow in the field of AI and ML.
-
-<br clear="right"/>
+Always learning, always improving, always building.
 
 ---
 
-## 🔧 My Tech Stack  
+## 🔧 My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
@@ -40,15 +35,17 @@ I'm continuously learning and improving my skills to grow in the field of AI and
 
 ---
 
-## 🎓 Certifications  
+## 🎓 Certifications
+
 - AI & Machine Learning – Sprints  
 - Introduction to Python – DataCamp  
 - Intermediate Python – DataCamp  
-- Web Scraping in Python – DataCamp  
+- Web Scraping in Python – DataCamp
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emad-mahmoud-09ab0a28a)  
@@ -59,6 +56,6 @@ I'm continuously learning and improving my skills to grow in the field of AI and
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Fact
+
 My models learn from data, and I learn from breaking them 😅
-```
