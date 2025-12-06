@@ -1,5 +1,5 @@
 # Hey there, I'm **Emad Mahmoud** 👋  
-**Data Science Student · AI & ML Enthusiast · Problem Solver**
+**Computer Science Student · AI & ML Enthusiast · Problem Solver**
 
 💼 **Current:** Trainee in **AI & Data Science Track** at DEPI  
 📚 **CS Student** at MTI University — *Grade: Excellent*
